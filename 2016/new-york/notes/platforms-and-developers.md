@@ -4,21 +4,70 @@ title: Platforms & Developers
 permalink: /about/2016/new-york/notes/platforms-and-developers/
 ---
 
+
 # Platforms & Developers
 ## “How can platforms support bot developers?”
 What are platform companies doing to help devs?
 Platform representatives reported differentiating characteristics.
 
-| Microsoft                                                                                                                                                                                                                                                                                                                     | Kik                                                                                                                     | Google                                                                                                                                                      | Alexa                                                                                                                   | Facebook                                                                                                                                                                                                             | Watson                                                                                                                                                         | Slack                                                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| * Robust, complete available AI platform * Quick & cheap onboarding with Azure * Provide an emulator * For Teams,  * new developer product * Really interested in usability/quick-to-launch bots * Launched Teams with a set of key strategic platform partners * Key strategy: one conversation platform across all products | * Tech & biz partner program * Marketing & sales materialsConnecting startups to brand customers * Focus on co-branding | * Active platform partnerships * Decent discoverability with Assistant * Triages your requests across your bots * Open source Tensorflow, ML tools (API.ai) | * Alexa fund (~$100m) * Active partner program * Making more open the voice services * Leverages AWS for deploying apps | * Startup program expanding to bots * Deep dive w/ devs (tech, prod, partnerships, etc.) * Partner program * Groups and discussions, now * Guides & recipes * Focus on stability of APIs * Cadence of releasesWit.ai | * Blue mix * Multiple cognitive technologies made available to developers (including sentiment analysis, etc.) * Watson conversation (bot-building technology) | * Slack Fund (~$80m)Active partner program * Responsiveness * App directory * Interactivity * Collaborative efforts with Watson |
+### Microsoft
+
+* Robust, complete available AI platform
+* Quick & cheap onboarding with Azure
+* Provide an emulator
+* For Teams,
+	* new developer product
+	* Really interested in usability/quick-to-launch bots
+	* Launched Teams with a set of key strategic platform partners
+	* Key strategy: one conversation platform across all products
+
+### Kik
+* Tech & biz partner program
+* Marketing & sales materials
+* Connecting startups to brand customers
+* Focus on co-branding
+
+### Google
+* Active platform partnerships
+* Decent discoverability with Assistant
+* Triages your requests across your bots
+* Open source Tensorflow, ML tools (API.ai)
+
+### Alexa
+* Alexa fund (~$100m)
+* Active partner program
+* Making more open the voice services
+* Leverages AWS for deploying apps
+
+### Facebook
+* Startup program expanding to bots
+* Deep dive w/ devs (tech, prod, partnerships, etc.)
+* Partner program
+* Groups and discussions, now
+* Guides & recipes
+* Focus on stability of APIs
+* Cadence of releases
+* Wit.ai
+
+### Watson
+* Blue mix
+* Multiple cognitive technologies made available to developers (including sentiment analysis, etc.)
+* Watson conversation (bot-building technology)
+
+### Slack
+* Slack Fund (~$80m)
+* Active partner program
+* Responsiveness
+* App directory
+* Interactivity
+* Collaborative efforts with Watson
 
 ## What do startups/devs/enterprises want?
 *Participants representing various start-ups shared what they wanted to hear from platforms, collected below and organized by topic.*
 
 * Auth/installations
 	* Inconsistency with authentication & installing bots across platforms
-* UI 
+* UI
 	* Consistent language across platforms to describe UI features would be great
 * Security & policy
 	* Huge problem with privacy and not totally understanding what happens to data consumers share with bots
