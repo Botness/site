@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: page
+title: Bot Character Design
+permalink: /about/2016/new-york/notes/bot-character-design/
 ---
 
-
-# Bot Character Design 
-#botness
+# Bot Character Design
 
 ## Topics
 * demographics/verticals differences for bots — casual interaction vs transactional
