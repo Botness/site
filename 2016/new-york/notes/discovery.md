@@ -4,6 +4,8 @@ title: Discovery
 permalink: /about/2016/new-york/notes/discovery/
 ---
 
+Notes by [Ben Brown](https://twitter.com/benbrown)
+
 * IS IT REALLY ABOUT THE BOT STORE?
 * Twitter is actually a place for bots to be found, bots can _find_ you because the conversations happen in public
 * As laura from kik said, being in group conversations is key. In the future, will Facebook group convos allow bot?  I HOPE SO. This also provides social proof and education - you see other people using it, etc
