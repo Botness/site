@@ -4,9 +4,7 @@ title: Platforms & Developers
 permalink: /about/2016/new-york/notes/platforms-and-developers/
 ---
 
-
-# Platforms & Developers
-## “How can platforms support bot developers?”
+## "How can platforms support bot developers?"
 
 Notes by [Meagan Gamache](https://twitter.com/meaganrgamache)
 
