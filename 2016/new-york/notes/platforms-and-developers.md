@@ -7,6 +7,9 @@ permalink: /about/2016/new-york/notes/platforms-and-developers/
 
 # Platforms & Developers
 ## “How can platforms support bot developers?”
+
+Notes by [Meagan Gamache](https://twitter.com/meaganrgamache)
+
 What are platform companies doing to help devs?
 Platform representatives reported differentiating characteristics.
 
