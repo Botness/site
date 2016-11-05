@@ -4,7 +4,7 @@ title: Bot Character Design
 permalink: /about/2016/new-york/notes/bot-character-design/
 ---
 
-# Bot Character Design
+Notes by [Chris Messina](https://twitter.com/chrismessina)
 
 ## Topics
 * demographics/verticals differences for bots — casual interaction vs transactional
