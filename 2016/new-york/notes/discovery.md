@@ -4,8 +4,6 @@ title: Discovery
 permalink: /about/2016/new-york/notes/discovery/
 ---
 
-# Discovery
-
 * IS IT REALLY ABOUT THE BOT STORE?
 * Twitter is actually a place for bots to be found, bots can _find_ you because the conversations happen in public
 * As laura from kik said, being in group conversations is key. In the future, will Facebook group convos allow bot?  I HOPE SO. This also provides social proof and education - you see other people using it, etc
@@ -19,4 +17,4 @@ permalink: /about/2016/new-york/notes/discovery/
 * GOD BOTS that know about other bots and find you a bot to do the thing you need.  "I need a car" leads to some new bot being installed.
 * Could the platforms do this more? Hey it looks like you could use a scheduler bot!
 * Could bot discovery be totally social? Like, sometimes you talk to a person and sometimes you are talking to their bots.
-* Maybe there is like a RPG inventory system where you can see someone's "upgrades" and adopt them yourself 
+* Maybe there is like a RPG inventory system where you can see someone's "upgrades" and adopt them yourself
